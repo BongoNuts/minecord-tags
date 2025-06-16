@@ -1,3 +1,4 @@
+# Usage: ?t lang \<tag name\>
 **zh:**  
 &nbsp;&nbsp;&nbsp;&nbsp;你好！該服務器的成員主要講英語。Minecraft是一個全球性的社區。英語是允許大多數成員相互交流的通用語言。  
   
