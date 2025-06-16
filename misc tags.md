@@ -1,3 +1,4 @@
+# Usage: ?t misc \<tag name>
 **yhm:**  
 &nbsp;&nbsp;&nbsp;&nbsp;You heard me.
   
