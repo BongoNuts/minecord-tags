@@ -5,19 +5,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;You don't.
   
 **winner:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Winner winner chicken dinner! Drumstick? :poultry_leg:
+&nbsp;&nbsp;&nbsp;&nbsp;Winner winner chicken dinner! Drumstick? 🍗
   
 **salmon:**  
 &nbsp;&nbsp;&nbsp;&nbsp;big salmon funny
   
 **potwin:**  
-&nbsp;&nbsp;&nbsp;&nbsp;:mc_potato: Potato won the game!
+&nbsp;&nbsp;&nbsp;&nbsp;<:mc_potato:631744909409386506> Potato won the game!
   
 **np:**  
 &nbsp;&nbsp;&nbsp;&nbsp;No problem.
   
 **init:**  
-&nbsp;&nbsp;&nbsp;&nbsp;https://cdn.discordapp.com/attachments/787128980167458816/1304559913380479006/Screenshot_20241108_163512_Discord.png?ex=672fd598&is=672e8418&hm=46386c523cde9f888257ec4191cb8e541ddcf9063cea5aa637b04353d4258f7b&
+&nbsp;&nbsp;&nbsp;&nbsp;![INIT](https://github.com/user-attachments/assets/4a5a1b6d-7511-4dbf-bd52-f3279c384e43)
+
   
 **grapes:**  
 &nbsp;&nbsp;&nbsp;&nbsp;I prefer them as grapes
