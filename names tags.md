@@ -1,3 +1,4 @@
+# Usage: ?t names \<tag name>
 **xg:**  
 &nbsp;&nbsp;&nbsp;&nbsp;XG be vibing, let’s vibe with him <a:steve_spin:840718497591328798>
   
