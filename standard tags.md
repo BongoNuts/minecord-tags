@@ -41,20 +41,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;When it's done.
   
 **update:**  
-## Spring To Life Drop
+## Chase the Skies Drop
 &nbsp;&nbsp;&nbsp;&nbsp;This update is out now for Java and Bedrock. Please read <#656622314309550129> and <#991413145535000626> to see all the additions and changes.
-## Baby Ghasts
-&nbsp;&nbsp;&nbsp;&nbsp;As some of you may know, Baby Ghasts were announced at MC Live. However, Baby Ghasts are **NOT** part of the Spring To Life Drop. Rather, they will be part of the 2nd Drop of 2025. You can test Baby Ghasts right now in Snapshots, Betas, and Previews
 ## Vibrant Visuals
-&nbsp;&nbsp;&nbsp;&nbsp;As some of you may know, Vibrant Visuals were announced at MC Live. However, Vibrant Visuals are **NOT** part of the Spring To Life Drop.
-Vibrant Visuals is available for preview and beta testing on Xbox Series X/S, Xbox One, PlayStation 4, PlayStation 5, Android, iOS, and PC.
-&nbsp;&nbsp;&nbsp;&nbsp;> Android: Adreno 640, Mali-G68, Mali-G77, or Xclipse 530 or higher
-&nbsp;&nbsp;&nbsp;&nbsp;> iOS: A12 or M1 or higher
-&nbsp;&nbsp;&nbsp;&nbsp;> PC: Running Minecraft on DX12
-&nbsp;&nbsp;&nbsp;&nbsp;-# https://www.minecraft.net/en-us/article/take-a-vibrant-test-flight
+- Vibrant Visuals is Minecraft's biggest official visual enhancement - delivering a dazzling cosmetic upgrade with a new modern graphics pipeline and an array of visual improvements. Sunrises are more vivid, water reflects, forests become shaded, and more!
+- Vibrant Visuals preserves what makes Minecraft uniquely special - pixelated shadows, caustics, and reflections have been carefully crafted to preserve and enhance Minecraft's signature blocky style
+- With updated textures for blocks, items, and more that decide how different light sources interact with them, builds will become more vivid and visually interesting!
+- Updated art settings and post-processing effects tie the visuals together in a signature Minecraft way
+- As a cosmetic enhancement to the game, Vibrant Visuals does not impact Minecraft's gameplay, meaning you can play on Realms with friends whether they have Vibrant Visuals enabled or not (Realms subscription sold separately. Multiplayer functionality will require platform specific online subscriptions, also sold separately)
+### Note
+&nbsp;&nbsp;&nbsp;&nbsp;Marketplace content such as Resource Packs and Worlds are **NOT** compatible with Vibrant Visuals. Marketplace Add-Ons are compatible
 ### Java Edition
 &nbsp;&nbsp;&nbsp;&nbsp;Please read this article on more information on when Vibrant Visuals will come to Java Edition: https://www.minecraft.net/en-us/article/vibrant-visuals-java-edition
-  
+
 **twitchcape:**  
 ## Twitch/home cape redeem code not showing up in notifications/campaigns? 
 &nbsp;&nbsp;&nbsp;&nbsp;This bug has been reported by players: [View here the bug report](https://bugs.mojang.com/browse/WEB/issues/WEB-7798)
