@@ -1,50 +1,49 @@
-# Usage: ?t misc \<tag name>
-**yhm:**  
+# Usage: !t misc \<tag name>
+## yhm:  
 &nbsp;&nbsp;&nbsp;&nbsp;You heard me.
   
-**yd:**  
+## yd:  
 &nbsp;&nbsp;&nbsp;&nbsp;You don't.
   
-**winner:**  
+## winner:  
 &nbsp;&nbsp;&nbsp;&nbsp;Winner winner chicken dinner! Drumstick? 🍗
   
-**salmon:**  
+## salmon:  
 &nbsp;&nbsp;&nbsp;&nbsp;big salmon funny
   
-**potwin:**  
+## potwin:  
 &nbsp;&nbsp;&nbsp;&nbsp;<:mc_potato:631744909409386506> Potato won the game!
   
-**np:**  
+## np:  
 &nbsp;&nbsp;&nbsp;&nbsp;No problem.
   
-**init:**  
+## init:  
 &nbsp;&nbsp;&nbsp;&nbsp;![INIT](https://github.com/user-attachments/assets/4a5a1b6d-7511-4dbf-bd52-f3279c384e43)
-
   
-**grapes:**  
+## grapes:  
 &nbsp;&nbsp;&nbsp;&nbsp;I prefer them as grapes
   
-**fork:**  
+## fork:  
 &nbsp;&nbsp;&nbsp;&nbsp;🍴The Forks have been lifted.  
 &nbsp;&nbsp;&nbsp;&nbsp;May the Forks be with you.
   
-**fishbowl:**  
+## fishbowl:  
 &nbsp;&nbsp;&nbsp;&nbsp;There's people who prefer looking at a Minecraft world normally, and then there's those that insist on looking at it through a fish bowl.
   
-**dad:**  
+## dad:  
 &nbsp;&nbsp;&nbsp;&nbsp;_Discord After Dark_
   
-**creeper:**  
+## creeper:  
 &nbsp;&nbsp;&nbsp;&nbsp;ssssss...
   
-**cbm:**  
+## cbm:  
 &nbsp;&nbsp;&nbsp;&nbsp;<@352151980908740610>, it's cereal then milk, not the other way around
   
-**brackets:**  
+## brackets:  
 &nbsp;&nbsp;&nbsp;&nbsp;"I don't want another brackets situation... *cough* Cookiie *cough*" - LZA  
   
-**bdt:**  
+## bdt:  
 &nbsp;&nbsp;&nbsp;&nbsp;Ba dum tss! :drum:  
   
-**anna:**  
+## anna:  
 &nbsp;&nbsp;&nbsp;&nbsp;Anna is a name.
