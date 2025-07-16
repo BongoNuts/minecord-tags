@@ -79,13 +79,13 @@ The Venn Diagram was invented by John Venn, when he tried to compare and contras
 Foenichs' response to every question: <https://support.discord.com/hc/en-us/articles/23187611406999-Guilds-FAQ>
   
 ## fern:  
-![fern](https://github.com/user-attachments/assets/57f33117-8d7e-47ad-8bb3-1fa7b192d73e)
+<img width="490" height="320" alt="image" src="https://github.com/user-attachments/assets/20e81d6b-fa64-48b1-a60d-a1ebef3e8271" />
   
 ## ferm:  
 no… no… no… you did it wrooong… its fer**n** smh
   
 ## fen:  
-![fen](https://github.com/user-attachments/assets/420adac3-559e-4c62-b91d-b4d7a15c9ecd)
+<img width="560" height="448" alt="image" src="https://github.com/user-attachments/assets/f7c9c3f7-179a-4471-8cea-92681a995a6c" />
   
 ## etech:  
 Most creepers explode when you hug them. But Etech doesn’t <:creeper:425369771026939914> <:steve_hug:641909874187304960>
