@@ -256,6 +256,14 @@ Moderating a server can be challenging, and allowing the use of multiple languag
   
 ## kim:  
 <a:grass_bounce:587505418406723584> **Keep it Minecraft!** Keep all content and discussions Minecraft-related. Go to <#305580569238962186> for non-Minecraft chat.
+
+## item:  
+# How to get the Happy Ghast Pilot Coat
+- Visit <https://gleam.io/H7d3U/free-happy-ghast-pilot-coat-character-creator-item>
+- Click the Discord icon next to “Login with:” and sign in to your account. Make sure to select "authorise" when prompted.
+- Click the question mark icon, then click the green “Continue” button
+  - If the site prompts you, Enter or Save your Discord login details
+- The code will appear in a green box above the buttons you just pressed and will also be sent to your email. The code can then be redeemed at <https://www.minecraft.net/en-us/redeem> or <https://redeem.microsoft.com>. You will have to sign in with your Microsoft account to redeem the code.
   
 ## gamediff:  
 Need help choosing? Below are links with an overview of the differences between Minecraft: Bedrock Edition and Minecraft: Java Edition!
@@ -404,7 +412,7 @@ You can do this on your [Microsoft account page](<https://account.microsoft.com/
 ## accountselling:  
 Selling, transfering, sharing, or distributing accounts is prohibited by the [Microsoft Services Agreement](<https://www.microsoft.com/en-us/servicesagreement>). https://imgur.com/a/D05qOTE
   
-## acc:**  
+## acc:  
 **<:jeb_scream:902408838983061515> __Having trouble with your Minecraft account?__**
 **Important:** Do not believe anyone that says they can help with your account via Discord! For your own safety, please do not give out your billing or private information to anyone here. 
 
