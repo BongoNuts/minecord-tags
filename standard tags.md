@@ -264,6 +264,9 @@ Moderating a server can be challenging, and allowing the use of multiple languag
 - Click the question mark icon, then click the green “Continue” button
   - If the site prompts you, Enter or Save your Discord login details
 - The code will appear in a green box above the buttons you just pressed and will also be sent to your email. The code can then be redeemed at <https://www.minecraft.net/en-us/redeem> or <https://redeem.microsoft.com>. You will have to sign in with your Microsoft account to redeem the code.
+
+## howlfg:  
+<img width="903" height="1236" alt="image" src="https://github.com/user-attachments/assets/dd6a20d9-3a4f-44ee-bff3-a3749f36d869" />
   
 ## gamediff:  
 Need help choosing? Below are links with an overview of the differences between Minecraft: Bedrock Edition and Minecraft: Java Edition!
