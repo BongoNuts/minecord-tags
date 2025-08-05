@@ -1,49 +1,49 @@
 # Usage: !t misc \<tag name>
-## yhm:  
-You heard me.
+## anna:  
+Anna is a name.
+
+## bdt:  
+Ba dum tss! :drum:  
+
+## brackets:  
+"I don't want another brackets situation... *cough* Cookiie *cough*" - LZA  
   
-## yd:  
-You don't.
+## cbm:  
+<@352151980908740610>, it's cereal then milk, not the other way around
   
-## winner:  
-Winner winner chicken dinner! Drumstick? 🍗
+## creeper:  
+ssssss...
   
-## salmon:  
-big salmon funny
+## dad:  
+_Discord After Dark_
   
-## potwin:  
-<:mc_potato:631744909409386506> Potato won the game!
-  
-## np:  
-No problem.
-  
-## init:  
-![INIT](https://github.com/user-attachments/assets/4a5a1b6d-7511-4dbf-bd52-f3279c384e43)
-  
-## grapes:  
-I prefer them as grapes
+## fishbowl:  
+There's people who prefer looking at a Minecraft world normally, and then there's those that insist on looking at it through a fish bowl.
   
 ## fork:  
 🍴The Forks have been lifted.  
 May the Forks be with you.
   
-## fishbowl:  
-There's people who prefer looking at a Minecraft world normally, and then there's those that insist on looking at it through a fish bowl.
+## grapes:  
+I prefer them as grapes
   
-## dad:  
-_Discord After Dark_
+## init:  
+![INIT](https://github.com/user-attachments/assets/4a5a1b6d-7511-4dbf-bd52-f3279c384e43)
   
-## creeper:  
-ssssss...
+## np:  
+No problem.
   
-## cbm:  
-<@352151980908740610>, it's cereal then milk, not the other way around
+## potwin:  
+<:mc_potato:631744909409386506> Potato won the game!
   
-## brackets:  
-"I don't want another brackets situation... *cough* Cookiie *cough*" - LZA  
+## salmon:  
+big salmon funny
   
-## bdt:  
-Ba dum tss! :drum:  
+## winner:  
+Winner winner chicken dinner! Drumstick? 🍗
   
-## anna:  
-Anna is a name.
+## yd:  
+You don't.
+  
+## yhm:  
+You heard me.
