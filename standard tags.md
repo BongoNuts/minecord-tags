@@ -53,24 +53,6 @@ This update is out now for Java and Bedrock. Please read <#656622314309550129> a
 Marketplace content such as Resource Packs and Worlds are **NOT** compatible with Vibrant Visuals. Marketplace Add-Ons are compatible
 ### Java Edition
 Please read this article on more information on when Vibrant Visuals will come to Java Edition: https://www.minecraft.net/en-us/article/vibrant-visuals-java-edition
-
-## twitchcape:  
-## Twitch/home cape redeem code not showing up in notifications/campaigns? 
-This bug has been reported by players: [View here the bug report](https://bugs.mojang.com/browse/WEB/issues/WEB-7798)
-### Players who do meet the requirements for this cape on Twitch, can get the code manually from Twitch support!
-1. Head over to [Twitch support ticket creation](https://help.twitch.tv/s/contactsupport)
-> Fill in the required information of your Twitch account, make sure to have meet the requirements of this drop!
-### 2. Use the following categories:
-> General > Drops > I am not receiving a drop in-game
-### 3. In its description please mention that you:
-> Meet the drop requirements but are not receiving the cape redeem codes in your Twitch inventory, Campaign or Notifications.
- 
-Twitch support shall email you back, first with automated emails, reply to those if they havent fixed your issue! 
-A next email will be followed by a human response, explaining if you are eligible for this or not. 
-### If you are eligible to receive the code! 
-Please allow up to 24 hours for your code to appear in your Twitch notifications inbox! 
-Which you will find located in the upper right side of the Twitch page when viewing their Twitch website on a desktop device or mobile browser. NOTE: NOT IN THE TWITCH APP! 
-### Redeem the code on https://minecraft.net/redeem#movie-cape
   
 ## support:  
 <:grass:325831548198715393> Get help __**from Minecraft Support**__ with the game, the marketplace, Realms, and other technical issues via <https://help.minecraft.net/>.
@@ -173,19 +155,6 @@ You will need to make a new Microsoft account __that isn't the same email as you
 
 > **Note:** When talking to Xbox/Microsoft support, **do NOT mention anything about Minecraft**. It is a Microsoft account you are recovering, not a Minecraft one. This is important as the support team may get confused and redirect you to Minecraft support otherwise, who can't help with accounts anymore.
   
-## movie:  
-<:creeper:425369771026939914>  **Friendly PSA to you all** <:creeper:425369771026939914> 
-
-As A Minecraft Movie rolls out this week, the chances of seeing spoilers online increase as each day passes and we get closer to worldwide release on Friday, April 4. 
-
-If you wish to discuss A Minecraft Movie in this server, please **ONLY** use <#1280880420778676316> and use the spoiler tag if posting/discussing spoilers. If you don't know how to mark something as a spoiler, put double vertical bars around the text. So you will want to have || on either side of the text. 
-
-If we see people blatantly posting spoilers of the film **anywhere** in the server to ruin the upcoming experience for others, we will take moderation action. <:warden:763094083785850911> 
-
-Everyone deserves the right to enjoy A Minecraft Movie without it being spoiled. <:mc_heart:589630433243955205> 
-
-Also, spoilers likely will lurk in other places online, so **use social media in general at your own risk** until you get a chance to see it in your local theater.
-  
 ## modmail:  
 ❗ If you witness any conduct in our server that violates the rules, please report it using our modmail form **HERE**: <https://dyno.gg/form/5e78810f>
 
@@ -243,12 +212,6 @@ Excited for Minecraft Live? Come join us at https://discord.gg/minecraftlive to 
 ## leavebeta:  
 Unenroll from Minecraft (Bedrock) betas in the Xbox Insider Hub or Google Play Store. Any worlds you've created or loaded in a beta version won't be playable in the current release version. Backup your worlds before uninstalling.
 https://help.minecraft.net/hc/en-us/articles/360040841471
-  
-## launchercape:  
-Hey everyone! The skills under the Level 9001 - Launcher Developer are April fools skills, there is no cape to earn. We on the launcher team appreciate the excitement and sorry to cause confusion!
-
--HoneyBHansen
--# https://discord.com/channels/302094807046684672/752025169048109067/1357434009197744249
   
 ## lang:  
 <:doggo_confused:948854485789315093> **We have a rule on our server that all communication must be in English**.
@@ -354,20 +317,6 @@ Discord Terms of Service and government laws (COPPA, GDPR) don't allow users who
 ## civil:  
 <#302094807046684672>
 😃 **Be cool, kind, and civil.** Treat all members with respect and express your thoughts in a constructive manner.
-  
-## cape:  
-### **Home Cape**
-Featuring the Earth portal from A MINECRAFT MOVIE
-1. Visit [Twitch](<https://www.twitch.tv/>) and sign in to your account
-2. Watch a Minecraft creator live for a minimum of 3 minutes (make sure they have Twitch drops enabled, you can see this by looking for the "ViewerRewards" tag)
-3. Redeem the code on <https://minecraft.net/redeem#movie-cape>
-### **Menace Cape**
-Inspired by the Nether portal from A MINECRAFT MOVIE
-1. Open the TikTok App (not the website) and sign in to your account
-2. Watch a Minecraft creator live for a minimum of 3 minutes (make sure they have rewards enabled, you can see this by looking for the "Game Rewards" tag)
-3. Redeem the code on <https://minecraft.net/redeem#movie-cape>
-### **Important**
-Cape redemption requires Minecraft: Bedrock Edition (sold separately), with access to the internet. Once claimed, the cape will become available in Minecraft: Java Edition on the same Microsoft account. __Capes may take some time before they show up in-game.__
   
 ## buy:  
 Buy Minecraft on your device's store or the official site.
