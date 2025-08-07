@@ -11,6 +11,9 @@ Did someone say tanks? 👀
 ## ayu:  
 Mace needs a buff
   
+## bonga:  
+<img width="351" height="84" alt="image" src="https://github.com/user-attachments/assets/f0a06510-2ee9-4309-90ad-1d38f6fdc761" />
+  
 ## bongo:  
 It's Bongo time
   
@@ -35,7 +38,7 @@ Cookiie stop making sillie tags
 ## crystal:  
 *Everyone here is cool*
   
-## dankory:
+## dankory:  
 Smh guys, it's **Dan**kory. Not *Dank*ory.
   
 ## david:  
