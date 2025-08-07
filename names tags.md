@@ -35,6 +35,9 @@ Cookiie stop making sillie tags
 ## crystal:  
 *Everyone here is cool*
   
+## dankory:
+Smh guys, it's **Dan**kory. Not *Dank*ory.
+  
 ## david:  
 ![david](https://github.com/user-attachments/assets/563f4b6e-1f22-46a9-9a18-d10583c90a31)
   
